@@ -1,3 +1,5 @@
+const API_URL = "https://script.google.com/macros/s/AKfycbxxxxxxxx/exec";
+
 // Local Storage for data persistence
 let currentRecords = [];
 let currentTab = 'form';
